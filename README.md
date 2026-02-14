@@ -2,18 +2,18 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# PERIODCARE🎯
 
 ## Basic Details
 
-### Team Name: [Name]
+### Team Name: SheBugs
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: Fathimath Shirin Sana C A - LBS COLLEGE OF ENGINEERING KASARAGOD
+- Member 2: Ezana T P - LBS COLLEGE OF ENGINEERING KASARAGOD
 
 ### Hosted Project Link
-[mention your project hosted link here]
+
 
 ### Project Description
 [2-3 lines about what your project does]
